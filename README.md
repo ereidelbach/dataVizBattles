@@ -1,4 +1,4 @@
-![Project Logo](https://github.com/ereidelbach/Images/blob/master/CFB%20Logo.png?raw=true)
+![Project Logo](https://github.com/ereidelbach/dataVizBattles/blob/master/dataVizBattlesLogo.jpg)
 
 ----
 
