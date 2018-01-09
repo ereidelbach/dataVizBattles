@@ -26,7 +26,7 @@ Deadline for submissions: <b><u>2018-01-26</u></b>.
 
 # Judging Criteria:
 
-1. <b>Analysi: The analysis is valid.</b>  This means that the data is stratified or transformed correctly, and that the best unit is used for the analysis.
+1. <b>Analysis: The analysis is valid.</b>  This means that the data is stratified or transformed correctly, and that the best unit is used for the analysis.
   - "per capita" or an equivalent normalization for populations.
   - "by gender" for stratifying genders where appropriate.
   - "separated by country" where appropriate.
@@ -38,7 +38,7 @@ Deadline for submissions: <b><u>2018-01-26</u></b>.
   - Bonus points if the source code is available.
 2. <b>Display: The visual is technically correct.</b>  This means that the data is presented clearly. It includes factors like:
   - No misleading or mismatched axes or scales
-  - Axes are labelled correctly, with units, where needed
+  - Axes are labeled correctly, with units, where needed
   - The chart/post title is plain and correctly describes the visual
   - The chart/post does not draw conclusions or make generalizations based on anecdotes
   - Bar and area charts are not truncated
