@@ -4,7 +4,7 @@
 
 # March 2018
 
-[DataIsBeautiful's](https://www.reddit.com/r/dataisbeautiful/comments/7nm6ed/battle_dataviz_battle_for_the_month_of_march) challenge for this month is:  <b><i>Visualize the Legal Status of Same-sex Marriage by US State and Year</i></b>
+[DataIsBeautiful's](https://www.reddit.com/r/dataisbeautiful/comments/7nm6ed/battle_dataviz_battle_for_the_month_of_march) challenge for this month is:  <b><i>Visualize over 100,000 stars</i></b>
 
 Deadline for submissions: <b><u>2018-03-30</u></b>.
 
