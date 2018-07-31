@@ -10,9 +10,9 @@ Deadline for submissions: <b><u>2018-01-26</u></b>.
 
 ---
 
-# Analysis
+# Submission
 
-<b><i>TBD</i></b>
+![January Submission](https://github.com/ereidelbach/dataVizBattles/blob/master/01-2018/visualization.svg)
 
 ---
 
