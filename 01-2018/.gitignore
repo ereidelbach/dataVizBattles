@@ -2,10 +2,11 @@
 #mycode.class
 
 # ignore an entire directory
-#/mydebugdir/
+/.ipynb_checkpoints/
 
 # ignore a file type
 *checkpoint.ipynb
+.ipynb_checkpoints
 
 # add an exception (using !) to the preceding rule to track a specific file
 #!package.json
