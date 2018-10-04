@@ -62,6 +62,6 @@ Deadline for submissions: <b><u>2018-06-01</u></b>.
 
 # Resources:
 
-1. March Dataset: Visualize over 100,000 stars: [Link][1]
+1. May Dataset: 1.6 million accidents in England, Scotland, and Wales from 2000-2016: [Link][1]
 
-  [1]: https://github.com/astronexus/HYG-Database/blob/master/hygdata_v3.csv
+  [1]: https://www.kaggle.com/daveianhickey/2000-16-traffic-flow-england-scotland-wales/data

@@ -4,7 +4,9 @@
 
 # March 2018
 
-[DataIsBeautiful's](https://www.reddit.com/r/dataisbeautiful/comments/7nm6ed/battle_dataviz_battle_for_the_month_of_march) challenge for this month is:  <b><i>Visualize over 100,000 stars</i></b>
+[DataIsBeautiful's](https://www.reddit.com/r/dataisbeautiful/comments/825mg6/battle_dataviz_battle_for_the_month_of_march_2018/) challenge for this month is:  <b><i>Visualize over 100,000 stars</i></b>
+
+The data for this month's competition is sourced from [GitHub](https://github.com/astronexus/HYG-Database/blob/master/hygdata_v3.csv).
 
 Deadline for submissions: <b><u>2018-03-30</u></b>.
 
@@ -60,6 +62,6 @@ Deadline for submissions: <b><u>2018-03-30</u></b>.
 
 # Resources:
 
-1. March Dataset: Visualize over 100,000 stars: [Link][1]
+1. March Dataset: The HYG Database: Information on 100,000 stars: [Link][1]
 
   [1]: https://github.com/astronexus/HYG-Database/blob/master/hygdata_v3.csv

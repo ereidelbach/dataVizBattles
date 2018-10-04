@@ -4,7 +4,9 @@
 
 # April 2018
 
-[DataIsBeautiful's](https://www.reddit.com/r/dataisbeautiful/comments/88ymvb/battle_dataviz_battle_for_the_month_of_april_2018/) challenge for this month is:  <b><i>Visualize every line from the every scene in The Office</i></b>
+[DataIsBeautiful's](https://www.reddit.com/r/dataisbeautiful/comments/88ymvb/battle_dataviz_battle_for_the_month_of_april_2018/) challenge for this month is:  <b><i>Visualize every line from every scene in The Office</i></b>
+
+The data for this month's competition is sourced from [OfficeQuotes.net](https://docs.google.com/spreadsheets/d/18wS5AAwOh8QO95RwHLS95POmSNKA2jjzdt0phrxeAE0).
 
 Deadline for submissions: <b><u>2018-04-27</u></b>.
 
@@ -60,6 +62,6 @@ Deadline for submissions: <b><u>2018-04-27</u></b>.
 
 # Resources:
 
-1. March Dataset: Visualize over 100,000 stars: [Link][1]
+1. April Dataset: Every line from every scene in The Office: [Link][1]
 
-  [1]: https://github.com/astronexus/HYG-Database/blob/master/hygdata_v3.csv
+  [1]: https://docs.google.com/spreadsheets/d/18wS5AAwOh8QO95RwHLS95POmSNKA2jjzdt0phrxeAE0

@@ -4,7 +4,9 @@
 
 # February 2018
 
-[DataIsBeautiful's](https://www.reddit.com/r/dataisbeautiful/comments/7nm6ed/battle_dataviz_battle_for_the_month_of_february) challenge for this month is:  <b><i>Visualize the Legal Status of Same-sex Marriage by US State and Year</i></b>
+[DataIsBeautiful's](https://www.reddit.com/r/dataisbeautiful/comments/7vegvf/battle_dataviz_battle_for_the_month_of_february/) challenge for this month is:  <b><i>Visualize the Legal Status of Same-sex Marriage by US State and Year</i></b>
+
+The data for this month's competition is sourced from [GitHub](https://github.com/zonination/samesmarriage/blob/master/ssm.csv).
 
 Deadline for submissions: <b><u>2018-03-02</u></b>.
 

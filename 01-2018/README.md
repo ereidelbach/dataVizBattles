@@ -6,6 +6,8 @@
 
 [DataIsBeautiful's](https://www.reddit.com/r/dataisbeautiful/comments/7nm6ed/battle_dataviz_battle_for_the_month_of_january/) challenge for this month is:  <b><i>Specific Growth rates of Algae</i></b>
 
+The data for this month's competition is sourced from [AquaText](http://aquatext.com/tables/algaegrwth.htm).
+
 Deadline for submissions: <b><u>2018-01-26</u></b>.
 
 ---

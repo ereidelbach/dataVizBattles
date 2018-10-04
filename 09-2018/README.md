@@ -2,13 +2,13 @@
 
 ----
 
-# August 2018
+# September 2018
 
-[DataIsBeautiful's](https://www.reddit.com/r/dataisbeautiful/comments/950j3n/battle_dataviz_battle_for_the_month_of_august/) challenge for this month is:  <b><i>Visualize TSA Claims.</i></b>
+[DataIsBeautiful's](https://www.reddit.com/r/dataisbeautiful/comments/9cuzs3/battle_dataviz_battle_for_the_month_of_september/) challenge for this month is:  <b><i>Visualize information on all 802 Pokemon.</i></b>
 
-The data for this month's competition is sourced from the [Department of Homeland Security](https://www.dhs.gov/tsa-claims-data).
+The data for this month's competition is sourced from the [Kaggle's Complete Pokemon Dataset](https://www.kaggle.com/rounakbanik/pokemon/version/1).
 
-Deadline for submissions: <b><u>2018-08-31</u></b>.
+Deadline for submissions: <b><u>2018-09-28</u></b>.
 
 ---
 
@@ -22,7 +22,7 @@ Deadline for submissions: <b><u>2018-08-31</u></b>.
 
 1. Use the dataset below. Work with the data, perform the analysis, and generate a visual. It is entirely your decision the way you wish to present your visual.
 2. (Optional) If you desire, you may create a new OC thread. However, no special preference will be given to authors who choose to do this.
-3. Make a top-level comment in [this thread](https://www.reddit.com/r/dataisbeautiful/comments/950j3n/battle_dataviz_battle_for_the_month_of_august) with a link directly to your visual (or your thread if you opted for Step 2). If you would like to include notes below your link, please do so. Winners will be announced in the next thread!
+3. Make a top-level comment in [this thread](https://www.reddit.com/r/dataisbeautiful/comments/9cuzs3/battle_dataviz_battle_for_the_month_of_september/) with a link directly to your visual (or your thread if you opted for Step 2). If you would like to include notes below your link, please do so. Winners will be announced in the next thread!
 
 ---
 
@@ -62,6 +62,6 @@ Deadline for submissions: <b><u>2018-08-31</u></b>.
 
 # Resources:
 
-1. August Dataset: TSA Claims: [Link][1]
+1. September Dataset: Information on all 802 Pokemon: [Link][1]
 
-  [1]: https://www.dhs.gov/tsa-claims-data
+  [1]: https://www.kaggle.com/rounakbanik/pokemon

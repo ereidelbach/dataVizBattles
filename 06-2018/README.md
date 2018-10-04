@@ -62,6 +62,6 @@ Deadline for submissions: <b><u>2018-06-29</u></b>.
 
 # Resources:
 
-1. March Dataset: Visualize over 100,000 stars: [Link][1]
+1. June Dataset: The lives, reigns, and deaths of 68 Roman emperors from 26 BC to 395 AD: [Link][1]
 
-  [1]: https://github.com/astronexus/HYG-Database/blob/master/hygdata_v3.csv
+  [1]: https://github.com/zonination/emperors/blob/master/emperors.csv

@@ -4,7 +4,7 @@
 
 # July 2018
 
-[DataIsBeautiful's](https://www.reddit.com/r/dataisbeautiful/comments/8vhxhq/battle_dataviz_battle_for_the_month_of_july_2018/) challenge for this month is:  <b><i>Make it better: Which Berds prefer Which Seeds?</i></b>
+[DataIsBeautiful's](https://www.reddit.com/r/dataisbeautiful/comments/8vhxhq/battle_dataviz_battle_for_the_month_of_july_2018/) challenge for this month is:  <b><i>Make it better: Which Birds prefer which Seeds?</i></b>
 
 The data for this month's competition is sourced from [Imgur](https://i.imgur.com/RicYHQ3.jpg).
 
@@ -62,6 +62,6 @@ Deadline for submissions: <b><u>2018-07-27</u></b>.
 
 # Resources:
 
-1. March Dataset: Visualize over 100,000 stars: [Link][1]
+1. July Dataset: Which Birds prefer which Seeds?: [Link][1]
 
-  [1]: https://github.com/astronexus/HYG-Database/blob/master/hygdata_v3.csv
+  [1]: https://i.imgur.com/RicYHQ3.jpg
