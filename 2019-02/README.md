@@ -2,13 +2,13 @@
 
 ----
 
-# October 2018
+# February 2019
 
-[DataIsBeautiful's](https://www.reddit.com/r/dataisbeautiful/comments/9ud457/battle_dataviz_battle_for_the_month_of_november/) challenge for this month is:  <b><i>Visualize the List of NASA Astronauts.</i></b>
+[DataIsBeautiful's](https://www.reddit.com/r/dataisbeautiful/comments/an18kt/battle_dataviz_battle_for_the_month_of_february/) challenge for this month is:  <b><i>Visualize Physical Harm and Dependence by Drug.</i></b>
 
-The data for this month's competition is sourced from a NASA Astronauts [Google Sheet](https://docs.google.com/spreadsheets/d/1kG9Jwknb6siBk0nm8lW40ltkJQuXPekc8zXikXp-rdg/edit?hl=en_US&hl=en_US#gid=0).
+The data for this month's competition is sourced from Wikipedia. [(Table)](https://commons.wikimedia.org/wiki/File:Development_of_a_rational_scale_to_assess_the_harm_of_drugs_of_potential_misuse_(physical_harm_and_dependence,_NA_free_means%29.svg#Data).
 
-Deadline for submissions: <b><u>2018-11-30 @ 4 pm EST</u></b>.
+Deadline for submissions: <b><u>2019-02-01 @ 4 pm EST</u></b>.
 
 ---
 
@@ -22,7 +22,7 @@ Deadline for submissions: <b><u>2018-11-30 @ 4 pm EST</u></b>.
 
 1. Use the dataset below. Work with the data, perform the analysis, and generate a visual. It is entirely your decision the way you wish to present your visual.
 2. (Optional) If you desire, you may create a new OC thread. However, no special preference will be given to authors who choose to do this.
-3. Make a top-level comment in [this thread](https://www.reddit.com/r/dataisbeautiful/comments/9ud457/battle_dataviz_battle_for_the_month_of_november/) with a link directly to your visual (or your thread if you opted for Step 2). If you would like to include notes below your link, please do so. Winners will be announced in the next thread!
+3. Make a top-level comment in [this thread](https://www.reddit.com/r/dataisbeautiful/comments/an18kt/battle_dataviz_battle_for_the_month_of_february/) with a link directly to your visual (or your thread if you opted for Step 2). If you would like to include notes below your link, please do so. Winners will be announced in the next thread!
 
 ---
 
@@ -62,6 +62,6 @@ Deadline for submissions: <b><u>2018-11-30 @ 4 pm EST</u></b>.
 
 # Resources:
 
-1. October Dataset: 859 survey results from /r/travel: [Link][1]
+1. February 2019 Dataset: Drug Harm and Dependency Data [(Link)][1]
 
-  [1]: https://redd.it/99foe4
+  [1]: https://commons.wikimedia.org/wiki/File:Development_of_a_rational_scale_to_assess_the_harm_of_drugs_of_potential_misuse_(physical_harm_and_dependence,_NA_free_means%29.svg#Data
