@@ -22,7 +22,7 @@ Deadline for submissions: <b><u>2019-08-30 @ 4 pm EST</u></b>.
 
 1. Use the dataset below. Work with the data, perform the analysis, and generate a visual. It is entirely your decision the way you wish to present your visual.
 2. (Optional) If you desire, you may create a new OC thread. However, no special preference will be given to authors who choose to do this.
-3. Make a top-level comment in [this thread](https://www.reddit.com/r/dataisbeautiful/comments/c89mz2/battle_dataviz_battle_for_the_month_of_july_2019/) with a link directly to your visual (or your thread if you opted for Step 2). If you would like to include notes below your link, please do so. Winners will be announced in the next thread!
+3. Make a top-level comment in [this thread](https://www.reddit.com/r/dataisbeautiful/comments/cmrz6j/battle_dataviz_battle_for_the_month_of_august/) with a link directly to your visual (or your thread if you opted for Step 2). If you would like to include notes below your link, please do so. Winners will be announced in the next thread!
 
 ---
 
